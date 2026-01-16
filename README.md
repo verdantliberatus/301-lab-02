@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `LevI Stevenson`
+- **CCID:** `lgs@ualberta.ca`
 
 ## References and Resources
 
